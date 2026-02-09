@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="200" hight="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 # 💫 About Me:
 🔭 Working on:  web projects<br>🤝 Open to collaborate on: Beginner-friendly projects<br>🧠 Looking for help with: JavaScript & Git<br>🌱 Learning: Modern web development<br>💬 Ask me about anything...<br>⚡ Fun fact: I enjoy refining UI details
 
